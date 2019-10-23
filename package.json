@@ -1,6 +1,6 @@
 {
   "name": "keystore-password-recovery",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "brute-force.js",
   "repository": "git@github.com:vmontanheiro/keystore-password-recovery.git",
   "author": "Vinícius Montanheiro <vinicius.amonranheiro@gmail.com>",

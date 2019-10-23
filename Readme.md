@@ -26,11 +26,11 @@ $ node brute-force.js your-keystore-path // Pass your keystore path as arguments
 We are just using a Brute Force Attack
 
 # Output examples
-![success-example](https://github.com/vmontanheiro/keystore-password-recovery/blob/master/src/img/success.png)
+![success-example](https://raw.githubusercontent.com/vmontanheiro/keystore-password-recovery/master/src/img/success.png)
 
-![error-example](https://github.com/vmontanheiro/keystore-password-recovery/blob/master/src/img/error.png)
+![error-example](https://raw.githubusercontent.com/vmontanheiro/keystore-password-recovery/master/src/img/error.png)
 
-# Don't lose hope, good lucky :D
+# Don't lose your hope, good lucky :D
 
 
 
